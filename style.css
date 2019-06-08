@@ -1,0 +1,20 @@
+﻿#Label1,#Label2{
+    font-weight:bold;
+    font-size:20px;
+}
+h1{
+    text-align:center;
+}
+body {
+    background-image: url(images.jpg);
+    font-weight: bold;
+    background-size: 100%;
+    font-size: 20px;
+    color:#2DABFF;
+}
+#lbl3,#lbl4,#lbl5,#lbl6,#lbl7,#lbl8{
+    font-size:25px;
+}
+#tabela{
+    width:30%;
+}
