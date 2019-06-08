@@ -27,9 +27,10 @@ Built With
 
 •	SQL SERVER
 
-•	MVC patterns
+
 
 # Authors
+
 •	Haris Cehic
 
 # License
