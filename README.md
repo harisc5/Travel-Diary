@@ -9,15 +9,18 @@ After that run the application in Visual Studio.
 Software needed for the application:
 
 Visual Studio
+
 https://visualstudio.microsoft.com/downloads/
 
 Microsoft SQL Server (and SQL Server Management Studio)
+
 https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 # Deployment
 Upload to a server and make it a part of a live website or make it as a separate web application.
 
 Built With
+
 •	ASP.NET
 
 •	C#
